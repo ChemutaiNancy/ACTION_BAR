@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="order_action">Order Action</string>
+    <string name="this_is_the_order_activity">This is the order activity</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="delivery">Home Delivery</string>
+</resources>
